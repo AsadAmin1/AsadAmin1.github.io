@@ -1,6 +1,8 @@
 # Career Framework 
 
-Role	Level		Knowledge (Technical Core)	Delivery (GSD)	Leadership & Communication
+| Role | Level | Knowledge (Technical Core) | Delivery (GSD) | Leadership & Communication |
+| ---- | ----- | -------------------------- | -------------- | -------------------------- |
+
 Engineer	I	Understanding	Knowledge of and ability to leverage source control.	Able to complete tasks in a supervised environment.	"Understands how and when to ask for help.
  
  
