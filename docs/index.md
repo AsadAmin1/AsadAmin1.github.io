@@ -3,7 +3,7 @@ title: Engineering Career Framework
 layout: default
 ---
 
-# Career Framework1
+# Career Framework
 
 ## Core
 
