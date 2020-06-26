@@ -267,3 +267,13 @@ Small Device Styles
 .inner { max-width: 90%; }
 
 #header_wrap .inner { padding: 10px 10px 10px 10px; }
+
+h1, h2, h3, h4, h5 { color: red; }
+
+#header_wrap { background: none; background-color: #081f3f; }
+
+th { font-weight: bold; background-color: #081f3f; }
+
+#project_tagline { visibility: none; }
+
+.fanatics-logo-spinner { border-radius: 10%; width: 50px; height: 50px; -webkit-transition: -webkit-transform 0.2s ease-in-out; transition: transform 0.5s ease-in-out; }

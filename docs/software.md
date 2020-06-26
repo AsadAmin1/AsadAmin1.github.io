@@ -3,7 +3,7 @@ title: Engineering Career Framework
 layout: default
 ---
 
-# Career Framework
+[Core](index.md)&nbsp;&nbsp;&nbsp;&nbsp;[Software](software.md)
 
 ## Software Engineering
 

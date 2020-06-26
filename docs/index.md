@@ -1,7 +1,10 @@
 ---
 title: Engineering Career Framework
 layout: default
+tagline: kj;lkjkl
 ---
+
+[Core](index.md)&nbsp;&nbsp;&nbsp;&nbsp;[Software](software.md)
 
 ## Core
 
