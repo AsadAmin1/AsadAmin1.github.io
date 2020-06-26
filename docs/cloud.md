@@ -1,3 +1,6 @@
+---
+title: Cloud Engineer
+---
 
 [Core Engineer](index)&nbsp;&nbsp;&nbsp;&nbsp;[Software Engineer](software)&nbsp;&nbsp;&nbsp;&nbsp;[Quality Engineer](quality)&nbsp;&nbsp;&nbsp;&nbsp;[Cloud Engineer](cloud)
 
@@ -6,7 +9,7 @@
 | Role         | Level   |                      | Knowledge (Technical Core)                                                               | Delivery (GSD) | Leadership & Communication |
 | ------------ | ------- | -------------------- | ---------------------------------------------------------------------------------------- | -------------- | -------------------------- |
 | **Engineer** | **I**   | Understanding        | Graduate                                                                                 |                |
-|              |         |                      | Knowledge of public cloud systems and concepts.  Preferably AWS.                         |                |                            |
+|              |         |                      | Knowledge of public cloud systems and concepts. Preferably AWS.                          |                |                            |
 |              |         |                      | Knowledge of source control systems.                                                     |                |                            |
 |              |         |                      | Knowledge of Infrastructure Automation Platforms. Preferably Terraform, Ansible or Chef. |                |                            |
 |              |         |                      | Knowledge of any scripting language.                                                     |                |                            |
