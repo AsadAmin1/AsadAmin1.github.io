@@ -1,10 +1,9 @@
 ---
 title: Engineering Career Framework
 layout: default
-tagline: kj;lkjkl
 ---
 
-[Core](index.md)&nbsp;&nbsp;&nbsp;&nbsp;[Software](software.md)
+[Core Engineer](index)&nbsp;&nbsp;&nbsp;&nbsp;[Software Engineer](software)&nbsp;&nbsp;&nbsp;&nbsp;[Quality Engineer](quality)
 
 ## Core
 
@@ -15,6 +14,7 @@ tagline: kj;lkjkl
 |          |       |                      | Can operate within a formalised lifecycle to implement solutions.                                |                                                                                                                                      | Can present to their immediate team.                                                                                              |
 |          |       |                      | Proactively spends time on own development and continuous learning.                              |                                                                                                                                      | Accepts feedback gratiously and learns from everything they do.                                                                   |
 |          |       |                      | Understands the quality of their work.                                                           |                                                                                                                                      |                                                                                                                                   |
+|          |       |                      |                                                                                                  |                                                                                                                                      |                                                                                                                                   |
 |          | II    | Execution            | Competent in the use of source control.                                                          | Able to independently accomplish the majority of assigned tasks.                                                                     | Can present to the wider department.                                                                                              |
 |          |       |                      | Can troubleshoot their own code.                                                                 | Has visibility of the value of their teams work in a wider context.                                                                  | Can identify and raise issues in a timely manner.                                                                                 |
 |          |       |                      | Follows defined best quality practices for solutions.                                            | Delivers planned features within a solution.                                                                                         | Solicits feedback for their own work.                                                                                             |
