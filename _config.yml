@@ -1,2 +1,5 @@
-theme: jekyll-theme-slate
+#theme: jekyll-theme-slate
+theme: bulma-clean-theme
 name: Engineering Career Framework
+title: Engineering Career Framework
+bootwatch: paper
